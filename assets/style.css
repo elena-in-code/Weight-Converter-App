@@ -1,9 +1,6 @@
 body {
-  margin: 70px 0 !important;
+  background: lightgrey !important;
 }
 .row div {
 	margin: 0 auto;
-}
-.display-4 {
-	padding-bottom: 14px;
 }
