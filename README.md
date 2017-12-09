@@ -1,6 +1,5 @@
 # [Weight Converter](https://elena-in-code.github.io/Weight-Converter-App/ "live sample")
 
-===
 
 ![](https://user-images.githubusercontent.com/30567608/33796128-00e5e36c-dcef-11e7-8485-80552a6b665b.gif "gif of the working app")
 
